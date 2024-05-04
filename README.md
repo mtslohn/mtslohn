@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mateus! 
-- 👀 I’m interested in Java (Spring Boot)/Quarkus, JS, Typescript, Angular, Vue.js, React and GraphQL.
+- 👀 I’m interested (not only) in Java, Spring Boot/Quarkus, JS, Typescript, Angular, Vue.js, React, and GraphQL.
 - 📫 How to reach me: https://www.linkedin.com/in/mtslohn/
 <!--- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
